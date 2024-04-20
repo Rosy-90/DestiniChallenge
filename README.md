@@ -1,6 +1,6 @@
 # destini_challenge_starting
 
-A new Flutter project.
+A new Flutter project..
 
 ## Getting Started
 
